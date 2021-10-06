@@ -5,6 +5,10 @@
     text-align: center;
 }
 
-.lead{
+.cover-heading{
+    font-size: 80px;
+}
+
+.info{
     font-size: 30px;
 }
