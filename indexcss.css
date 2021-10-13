@@ -8,8 +8,12 @@ body{
 
 .cover-heading{
     font-size: 80px;
+    font-family: 'Bebas Neue', cursive;
+    color: brown;
 }
 
 .info{
     font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: khaki
 }
