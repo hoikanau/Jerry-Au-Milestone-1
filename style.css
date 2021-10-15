@@ -1,0 +1,34 @@
+.whosection{
+    background-color: cornflowerblue;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.likessection{
+    background-color:lightgreen;
+    font-family: 'Cairo', sans-serif;
+}
+
+.innercover{
+    text-align: center;
+}
+
+.cover-heading{
+    font-size: 80px;
+    font-family: 'Bebas Neue', cursive;
+    color: brown;
+}
+
+.info{
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: khaki
+}
+
+.futureinfo{
+    font-family: 'Bebas Neue', cursive;
+    background-color: darkcyan;
+}
+
+.cost{
+    color: darkgreen;
+}
